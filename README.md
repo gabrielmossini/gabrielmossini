@@ -1,5 +1,5 @@
 ## 👋 Hi 
- My name is Gabriel Mossini
+ My name is Gabriel Mossini.
 
  I'm a first-year Computer Science studente at FEMA (FUNDAÇÃO EDUCACIONAL DO MUNICIPIO DE ASSIS) and this is my portfolio hope you like it. 
 
