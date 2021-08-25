@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gabriel Mossini
+- 👀 This is my portfolio i hope you like it
+- 🌱 I’m currently learning C++
+- 💞️ I’m a First-Year Computer Science student
+- 📫 To reach me here's Linkedin account: https://www.linkedin.com/in/gabrielmossini/
