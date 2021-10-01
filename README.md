@@ -6,4 +6,4 @@
  Currently I'm seeking for a internship. Always open to new challenges and ready to face changes.
 
 📫 To reach me here's [Linkedin](https://www.linkedin.com/in/gabrielmossini/) account.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/gamossini/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamossini)](https://github.com/gamossini/github-readme-stats)
