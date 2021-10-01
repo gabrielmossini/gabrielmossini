@@ -8,4 +8,4 @@
 📫 To reach me here's [Linkedin](https://www.linkedin.com/in/gabrielmossini/) account.
 
 
-(https://github-readme-stats.vercel.app/api?username=gamossini)](https://github.com/gamossini/github-readme-stats)  //Status
+(https://github-readme-stats.vercel.app/api?username=gamossini)](https://github.com/gamossini/github-readme-stats)
