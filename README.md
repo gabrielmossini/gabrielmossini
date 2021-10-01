@@ -7,4 +7,4 @@ My name is Gabriel Mossini.
 
 📫 To reach me here's [Linkedin](https://www.linkedin.com/in/gabrielmossini/) account.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamossini&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamossini&show_icons=true&theme=prussian)
