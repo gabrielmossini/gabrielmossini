@@ -9,4 +9,5 @@ My name is Gabriel Mossini.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamossini&show_icons=true&theme=midnight-purple)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gamossini&repo=github-readme-stats)](https://github.com/gamossini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamossini&layout=compact)](https://github.com/gamossini/github-readme-stats)
+
