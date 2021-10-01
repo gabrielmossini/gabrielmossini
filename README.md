@@ -10,3 +10,4 @@ My name is Gabriel Mossini.
 ## Connect with me:
 
 [Linkedin](https://www.linkedin.com/in/gabrielmossini/)
+<img src="https://img.shields.io/badge/-{BADGELABEL}-{COLOR/HEX}?logo={ICON-NAME}&logoColor={LOGO-COLOR}&style={STYLE}" alt="badge sample"/>
