@@ -8,6 +8,6 @@ My name is Gabriel Mossini.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamossini&show_icons=true&theme=midnight-purple)
 
 ## Connect with me:
-<img src"{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}">
+<img src"{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 
 📫 To reach me here's [Linkedin](https://www.linkedin.com/in/gabrielmossini/) account.
