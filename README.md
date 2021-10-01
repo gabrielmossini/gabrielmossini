@@ -8,12 +8,3 @@ My name is Gabriel Mossini.
 📫 To reach me here's [Linkedin](https://www.linkedin.com/in/gabrielmossini/) account.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamossini&show_icons=true&theme=midnight-purple)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamossini&layout=compact)](https://github.com/gamossini/github-readme-stats)
-
-<a href="https://github.com/gamossini/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gamossini&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/gamossini/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gamossini&repo=convoychat" />
-</a>
