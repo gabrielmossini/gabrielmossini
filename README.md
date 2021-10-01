@@ -5,6 +5,10 @@ My name is Gabriel Mossini.
 
  Currently I'm seeking for a internship. Always open to new challenges and ready to face changes.
 
-📫 To reach me here's [Linkedin](https://www.linkedin.com/in/gabrielmossini/) account.
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamossini&show_icons=true&theme=midnight-purple)
+
+## Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/
+ simple-icons@ave/icons/linkedin.svg" />] [Linkedin]
+
+📫 To reach me here's [Linkedin](https://www.linkedin.com/in/gabrielmossini/) account.
