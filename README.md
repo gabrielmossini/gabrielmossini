@@ -7,7 +7,7 @@ My name is Gabriel Mossini.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamossini&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamossini&exclude_repo=github-readme-stats,gamossini.github.io)](https://github.com/gamossini/github-readme-stats)
 
 
 ## Connect with me:
