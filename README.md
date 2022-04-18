@@ -8,10 +8,9 @@ My name is Gabriel Mossini.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamossini&show_icons=true&theme=midnight-purple)
 
 ## Connect with me:
-
-
-
 <div>
    <a href="https://www.linkedin.com/in/gabrielmossini/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=your-github-gamossini&style=flat-square&color=blue" alt=""/>
