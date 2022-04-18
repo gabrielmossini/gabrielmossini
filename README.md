@@ -18,10 +18,10 @@ My name is Gabriel Mossini.
 <div id"Connect" align="center">
    <a href="https://www.linkedin.com/in/gabrielmossini/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-  </a>
-  <a>
+</div>
+
+<div>
   <img src="https://komarev.com/ghpvc/?username=your-github-gamossini&style=flat-square&color=blue" alt=""/>
-  </a>
 </div>
 
 
