@@ -1,4 +1,7 @@
-### 👋 Hi 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 My name is Gabriel Mossini.
 
  I'm a undergraduate Computer Science student at FEMA (FUNDAÇÃO EDUCACIONAL DO MUNICIPIO DE ASSIS) and this is my portfolio. 
@@ -11,6 +14,7 @@ My name is Gabriel Mossini.
 <div id"Connect" align="center">
    <a href="https://www.linkedin.com/in/gabrielmossini/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+      <img src="https://komarev.com/ghpvc/?username=your-github-gamossini&style=flat-square&color=blue" alt=""/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-gamossini&style=flat-square&color=blue" alt=""/>
+
