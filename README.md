@@ -2,8 +2,8 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-------------
-### 👨‍💻 About Me:
+
+### 👨‍💻About Me:
 My name is Gabriel Mossini.
 
 👨‍🎓 I'm a undergraduate Computer Science student at FEMA (FUNDAÇÃO EDUCACIONAL DO MUNICIPIO DE ASSIS) and this is my portfolio. 
