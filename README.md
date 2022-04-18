@@ -13,6 +13,6 @@ My name is Gabriel Mossini.
 
 <div>
    <a href="(https://www.linkedin.com/in/gabrielmossini/)">
- https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
    <\a>
  </div>
