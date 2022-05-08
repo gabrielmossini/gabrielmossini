@@ -23,4 +23,4 @@ My name is Gabriel Mossini.
   <img src="https://komarev.com/ghpvc/?username=your-github-gamossini&style=flat-square&color=blue" alt=""/>
 </div>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
