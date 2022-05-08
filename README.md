@@ -13,6 +13,8 @@ My name is Gabriel Mossini.
 ### 🔥My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gamossini&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamossini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Connect with me:
 <div id"Connect" align="center">
    <a href="https://www.linkedin.com/in/gabrielmossini/">
@@ -22,5 +24,3 @@ My name is Gabriel Mossini.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-gamossini&style=flat-square&color=blue" alt=""/>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
