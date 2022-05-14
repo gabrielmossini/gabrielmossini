@@ -20,7 +20,3 @@ My name is Gabriel Mossini.
    <a href="https://www.linkedin.com/in/gabrielmossini/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-gamossini&style=flat-square&color=blue" alt=""/>
-</div>
