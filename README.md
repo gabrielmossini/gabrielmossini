@@ -15,6 +15,8 @@ My name is Gabriel Mossini.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamossini&theme=vision-friendly-dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamossini&layout=compact)](https://github.com/gamossini/github-readme-stats)
+
 ## Connect with me:
 <div id"Connect" align="center">
    <a href="https://www.linkedin.com/in/gabrielmossini/">
