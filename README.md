@@ -15,12 +15,12 @@ My name is Gabriel Mossini.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gamossini&theme=dark&background=000000)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamossini&theme=vision-friendly-dark)
 
 ## Connect with me:
-<div id"Connect" align="center">
-   <a href="https://www.linkedin.com/in/gabrielmossini/">
+<div id"Connect" align="auto">
+  <a href="mailto:ga.mossini@gmail.com">
   <img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465">
+  
   </a>
-</div>
-<div id"Connect" align="center">
-   <a href="mailto:ga.mossini@gmail.com">
+   <a href="www.linkedin.com/in/gabrielmossini">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
 </div>
