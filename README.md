@@ -12,7 +12,7 @@ My name is Gabriel Mossini.
 
 ### 🔥My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gamossini&theme=dark&background=000000)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamossini&theme=vision-friendly-dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabrielmossini&theme=dark&background=000000)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmossini&theme=vision-friendly-dark)
 
 ## Connect with me:
 <div id"Connect" align="center">
