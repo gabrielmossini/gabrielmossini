@@ -17,7 +17,12 @@ My name is Gabriel Mossini.
 ## Connect with me:
 <div id"Connect" align="center">
   <a href="mailto:contatogabrielmossini@gmail.com">
-  <img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="mailto:gabrielmossini@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
   
   </a>
    <a href="https://www.linkedin.com/in/gabrielmossini">
